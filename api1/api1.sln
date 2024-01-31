@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "api1", "api1\api1.csproj", "{45F36316-46F9-4F55-8391-AA6E5003CF9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45F36316-46F9-4F55-8391-AA6E5003CF9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45F36316-46F9-4F55-8391-AA6E5003CF9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45F36316-46F9-4F55-8391-AA6E5003CF9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45F36316-46F9-4F55-8391-AA6E5003CF9E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
